@@ -38,8 +38,12 @@ An interactive deep learning web application built using **Streamlit** that perf
 <img width="1255" height="660" alt="Screenshot 2025-07-24 185245" src="https://github.com/user-attachments/assets/13e03e15-6127-4f79-844b-b511bec90c9f" />
 <img width="1897" height="916" alt="Screenshot 2025-07-24 185258" src="https://github.com/user-attachments/assets/898eadbc-b6e5-49ef-8487-f844735a4370" />
 - In this project Gursirat Kaur have worked on Image Captioning part.
-- Model links are:
-- <a href=https://drive.google.com/file/d/1PD2tZUjJp_9YWoO4iPhiJvSfsy0mgWvV/view?usp=sharing>Feature_Extraction_of_mscoco_Dataset_For_image_captioning</a>
-- <a href=https://drive.google.com/file/d/1plySiCOetZxVV_sWNLirH97-mjFBlgvg/view?usp=sharing>Tokenizer file</a>
-- <a href=https://drive.google.com/file/d/1IxsPyhViDXB3f5dRBwi06p_TnhaBjTh6/view?usp=sharing>U_net_model_trained_for_multi_class_image_segmentation</a>
+  
+- <h3>Model links are:</h3>
+<ol>
+  
+<li><a href=https://drive.google.com/file/d/1PD2tZUjJp_9YWoO4iPhiJvSfsy0mgWvV/view?usp=sharing>Feature_Extraction_of_mscoco_Dataset_For_image_captioning</a></li>
+<li> <a href=https://drive.google.com/file/d/1plySiCOetZxVV_sWNLirH97-mjFBlgvg/view?usp=sharing>Tokenizer file</a></li>
+<li><a href=https://drive.google.com/file/d/1IxsPyhViDXB3f5dRBwi06p_TnhaBjTh6/view?usp=sharing>U_net_model_trained_for_multi_class_image_segmentation</a></li> 
+  </ol>
 ---
