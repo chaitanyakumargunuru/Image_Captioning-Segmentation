@@ -41,5 +41,5 @@ An interactive deep learning web application built using **Streamlit** that perf
 - Model links are:
 - <a href=https://drive.google.com/file/d/1PD2tZUjJp_9YWoO4iPhiJvSfsy0mgWvV/view?usp=sharing>Feature_Extraction_of_mscoco_Dataset_For_image_captioning</a>
 - <a href=https://drive.google.com/file/d/1plySiCOetZxVV_sWNLirH97-mjFBlgvg/view?usp=sharing>Tokenizer file</a>
-- <a href=https://drive.google.com/file/d/1IxsPyhViDXB3f5dRBwi06p_TnhaBjTh6/view?usp=sharing><U_net_model_trained_for_multi_class_image_segmentation</a>
+- <a href=https://drive.google.com/file/d/1IxsPyhViDXB3f5dRBwi06p_TnhaBjTh6/view?usp=sharing>U_net_model_trained_for_multi_class_image_segmentation</a>
 ---
