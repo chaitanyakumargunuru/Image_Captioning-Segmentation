@@ -1,5 +1,9 @@
 #  Image Captioning and Segmentation App
-
+> This project focuses on the dual task of Image Captioning and Image Segmentation. Image Captioning
+involves generating descriptive textual captions for a given image using deep learning models, while Image
+Segmentation involves identifying and labeling regions of an image with corresponding objects or
+categories. Combining these two tasks will give interns hands-on experience with computer vision,
+natural language processing, and deep learning concepts.
 An interactive deep learning web application built using **Streamlit** that performs:
 - **Image Captioning** using a CNN-LSTM architecture
 - **Image Segmentation** using a UNet model  
